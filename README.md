@@ -1,6 +1,6 @@
-# eslint-config-pancake
+# eslint-config-easybake
 
-Pancake Eslint config with:
+EasyBake Eslint config with:
 
 - Airbnb config
 - Typescript
@@ -9,7 +9,7 @@ Pancake Eslint config with:
 ## Usage
 
 ```
-npx install-peerdeps --dev @pancakeswap-libs/eslint-config-pancake
+npx install-peerdeps --dev eslint-config-easybake
 ```
 
-Add `"extends": "@pancakeswap-libs/eslint-config-pancake"` to your eslint config file.
+Add `"extends": "eslint-config-easybake"` to your eslint config file.
